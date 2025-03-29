@@ -1,0 +1,36 @@
+[15-Jan-2023 09:50:22 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/facx1285/public_html/catering/admin/config/koneksi.php on line 8
+[17-Jan-2023 15:50:46 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/facx1285/public_html/catering/admin/config/koneksi.php on line 8
+[17-Jan-2023 15:50:50 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/facx1285/public_html/catering/admin/config/koneksi.php on line 8
+[17-Jan-2023 15:50:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/facx1285/public_html/catering/admin/config/koneksi.php on line 8
+[18-Jan-2023 08:17:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:17:59 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:17:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:18:08 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:18:08 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:18:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:18:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:18:30 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:18:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:18:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:18:47 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:18:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:19:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:19:00 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:19:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:20:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:20:25 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:20:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:21:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:21:02 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:21:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:21:25 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:21:25 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:21:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:21:59 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:21:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:22:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:22:03 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:22:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5
+[18-Jan-2023 08:23:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/logout.php on line 3
+[18-Jan-2023 08:23:54 Asia/Jakarta] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/facx1285/public_html/catering/logout.php on line 4
+[18-Jan-2023 08:23:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/facx1285/public_html/catering/admin/config/koneksi.php:1) in /home/facx1285/public_html/catering/logout.php on line 5

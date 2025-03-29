@@ -1,0 +1,1 @@
+[15-Jan-2023 10:01:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/facx1285/public_html/catering/admin/login.php on line 109

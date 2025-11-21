@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Pemesanan Catering
 
 Sistem pemesanan catering dengan fitur manajemen stok menggunakan **metode FIFO**, dilengkapi modul lengkap untuk operasional bisnis catering. Sistem dibangun menggunakan **CodeIgniter 3**, **MySQL**, serta frontend **HTML**, **CSS**, **JavaScript**, **Bootstrap**, dan landing page modern.
@@ -134,3 +135,6 @@ Silakan lihat halaman **Contact** dalam sistem untuk informasi lebih lanjut.
 Open Source / Private (sesuaikan kebutuhan).
 
 ---
+=======
+Framework pribadi
+>>>>>>> 9c70d582cc588e3fd4555e8ba45b184d82f33d09
